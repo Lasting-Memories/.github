@@ -5,6 +5,13 @@ Inspired by **Mnemosyne**, the Greek Titaness of memory, our platform reflects h
 
 ---
 
+
+
+#**ラスティングメモリーズ**は、大切な人々の物語や遺産、思い出を保存し、称えるためのプラットフォームです。  
+
+私たちは、記憶の女神であるギリシャ神話の**ムネモシュネ（Mnemosyne）**にインスピレーションを得ています。ムネモシュネが創造性と物語を象徴するミューズたちを生み出したように、ラスティングメモリーズは人々が自分の物語を共有し、大切な人々を永遠に称えることを可能にします。  
+
+---
+
 ## Copyright  
 © Mnemosyne LLC. All rights reserved. 
-
