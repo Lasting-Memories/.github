@@ -13,5 +13,4 @@ Inspired by **Mnemosyne**, the Greek Titaness of memory, our platform reflects h
 
 ---
 
-## Copyright  
-© Mnemosyne LLC. All rights reserved. 
+#### Copyright  © Mnemosyne LLC. All rights reserved. 
